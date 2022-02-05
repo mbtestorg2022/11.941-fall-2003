@@ -8,8 +8,45 @@ In addition to completing required readings, students are expected to undertake 
 
 Examples of student papers are listed in the table below.
 
-| TOPICS | STUDENTS |
-| --- | --- |
-| Navigating a Science-based Organization toward Joint Fact-Finding ([PDF]({{< baseurl >}}/resources/final_masa)) (Courtesy of Matsuura Masahiro. Used with permission.) | Masahiro Matsuura |
-| What Role, The Scientist?: The Importance of Scientists and Collaboration in Environmental Policy Formulation and the Roles that Scientists Play ([PDF]({{< baseurl >}}/resources/jff_final)) (Courtesy of Steven Lenard. Used with permission.) | Steven R. Lenard |
-| Pathology of the Traditional Science-intensive Environmental Decision-making Process ([PDF]({{< baseurl >}}/resources/science_inten)) (Courtesy of Ali Mostashari. Used with permission.) | Ali Mostashari
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+STUDENTS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Navigating a Science-based Organization toward Joint Fact-Finding ([PDF]({{< baseurl >}}/resources/final_masa)) (Courtesy of Matsuura Masahiro. Used with permission.)
+{{< tdclose >}}
+{{< tdopen >}}
+Masahiro Matsuura
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+What Role, The Scientist?: The Importance of Scientists and Collaboration in Environmental Policy Formulation and the Roles that Scientists Play ([PDF]({{< baseurl >}}/resources/jff_final)) (Courtesy of Steven Lenard. Used with permission.)
+{{< tdclose >}}
+{{< tdopen >}}
+Steven R. Lenard
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Pathology of the Traditional Science-intensive Environmental Decision-making Process ([PDF]({{< baseurl >}}/resources/science_inten)) (Courtesy of Ali Mostashari. Used with permission.)
+{{< tdclose >}}
+{{< tdopen >}}
+Ali Mostashari
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
